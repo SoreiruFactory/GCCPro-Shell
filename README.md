@@ -1,3 +1,9 @@
+#GCCPro
+
+This is a Olympia shell with pro-controller button layout.
+
+This is still in the test phase.
+
 # Removable-Gate-GCC
 
 This is a collection of custom gamecube controller files made to be resin printed. These files feature a variety of mods. Removable Gates, Digitally Notched Gateplates, Double Z, USB-C, Metal Threaded Shell Inserts, and a Fully Parametric Custom Notch Builder Tool!
