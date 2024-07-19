@@ -2,6 +2,8 @@
 
 This is a Olympia shell with pro-controller button layout.
 
+![Images/GCCPro.jpg](https://github.com/SoreiruFactory/GCCPro-Shell/blob/463a91bcd4d001686d31cf72c09f40e10ec1a303/Images/GCCPro.jpg)
+
 Updated to the latest shell data!
 Tested by order at JLC and found to work perfectly!
 
