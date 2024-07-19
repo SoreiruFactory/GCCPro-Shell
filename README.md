@@ -2,7 +2,10 @@
 
 This is a Olympia shell with pro-controller button layout.
 
-This is still in the test phase.
+Updated to the latest shell data!
+Tested by order at JLC and found to work perfectly!
+
+I will add more information on how to order and the parts needed at a later date.
 
 # Removable-Gate-GCC
 
