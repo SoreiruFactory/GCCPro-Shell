@@ -1,4 +1,4 @@
-# GCCPro
+# GCCPro-Shell
 
 This is a Olympia shell with pro-controller button layout.
 
